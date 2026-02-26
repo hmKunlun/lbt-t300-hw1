@@ -3,27 +3,12 @@ The `ApCliSsid` variable is passed in from the Web and obtained via the `nvram_g
 
 
 main-->sub_40C360-->start_lan-->start_wlan-->config_wlan-->generate_conf-->generate_conf_router
+<img width="735" height="411" alt="image" src="https://github.com/user-attachments/assets/886a677c-febd-4893-a2a3-f4153023e111" />
 
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771921745438-026580fd-44e6-4e26-a15e-2c8017038e36.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771921803555-dfc824b5-5663-4b2e-bfae-722b10f318fb.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924756328-084844b8-705c-485f-8f62-7ce7606c2886.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924765138-b69d1ce3-e99e-494e-a802-41304fae07ad.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924804632-0c696a25-3b54-417e-9e64-6e3dbf3934d6.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771925102711-e5dddfd0-72f0-42cf-840d-ed0d6b2b4480.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771763051505-57739c04-4a18-4b31-be3e-2d7887b918d6.png)
-
-
+<img width="445" height="298" alt="image" src="https://github.com/user-attachments/assets/f425d9d2-b8bc-4fd9-883b-72f5652bf306" />
+<img width="500" height="228" alt="image" src="https://github.com/user-attachments/assets/55ab13a4-cab5-455f-b49b-9b84a6cb9669" />
+<img width="611" height="445" alt="image" src="https://github.com/user-attachments/assets/ad5e8016-dc46-432d-8bee-052d49f7ee55" />
+<img width="850" height="524" alt="image" src="https://github.com/user-attachments/assets/a7c97a0d-94aa-4458-aeb6-2db5081dfc1d" />
+<img width="820" height="529" alt="image" src="https://github.com/user-attachments/assets/bc5a31ee-2175-47af-9cc3-4317240c50c7" />
+<img width="705" height="460" alt="image" src="https://github.com/user-attachments/assets/3b74068e-8724-4f40-99d7-c2d4c466057f" />
 
