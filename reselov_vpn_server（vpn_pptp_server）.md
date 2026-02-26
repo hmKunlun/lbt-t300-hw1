@@ -3,21 +3,8 @@ The `vpn_pptp_server` variable is passed in from the Web and obtained via the `n
 
 
 main-->syb_40C360-->start_single_service-->connect_vpn-->reselov_vpn_server
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771756048653-0cd3e1eb-d2b6-4055-b851-6285da3e8296.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771759436031-777bd09c-0253-4ab5-be90-53912669731e.png?x-oss-process=image%2Fformat%2Cwebp)
-
-
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771762887140-a39bf7c2-a31c-4104-8370-df1e8d3b06e3.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771762974482-7178a730-3f0d-4c3a-b6e8-89ff6ed545a7.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771763051505-57739c04-4a18-4b31-be3e-2d7887b918d6.png)
-
+<img width="718" height="847" alt="image" src="https://github.com/user-attachments/assets/5f996c8c-5265-4343-a7a2-3203b34e3dff" />
+<img width="801" height="605" alt="image" src="https://github.com/user-attachments/assets/7e00cac5-974e-496b-8fd0-9d8b52e26f61" />
+<img width="889" height="501" alt="image" src="https://github.com/user-attachments/assets/bfbb1457-b1ae-4561-b08e-d436a23828a3" />
+<img width="865" height="524" alt="image" src="https://github.com/user-attachments/assets/20650585-8f66-4c2c-9b72-9e211ae79eee" />
+<img width="705" height="460" alt="image" src="https://github.com/user-attachments/assets/a909f679-5092-4758-a37e-9691294115b4" />
