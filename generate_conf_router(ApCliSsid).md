@@ -12,7 +12,7 @@ main-->sub_40C360-->start_lan-->start_wlan-->config_wlan-->generate_conf-->gener
 <img width="820" height="529" alt="image" src="https://github.com/user-attachments/assets/bc5a31ee-2175-47af-9cc3-4317240c50c7" />
 <img width="705" height="460" alt="image" src="https://github.com/user-attachments/assets/3b74068e-8724-4f40-99d7-c2d4c466057f" />
 
-'''
+```
 poc
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -106,4 +106,4 @@ def send_request():
 
 if __name__ == "__main__":
     send_request()
-'''
+```
