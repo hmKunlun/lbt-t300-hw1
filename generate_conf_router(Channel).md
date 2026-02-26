@@ -1,27 +1,11 @@
 The `Channel` variable is passed in from the Web_URL and obtained via the `nvram_get` function in `generate_conf_router`, causing a stack overflow vulnerability that can lead to arbitrary command execution.
 
-
-
 main-->sub_40C360-->start_lan-->start_wlan-->config_wlan-->generate_conf-->generate_conf_router
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771925273451-353e043f-6144-4535-8175-19d9f49e950f.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771921803555-dfc824b5-5663-4b2e-bfae-722b10f318fb.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924756328-084844b8-705c-485f-8f62-7ce7606c2886.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924765138-b69d1ce3-e99e-494e-a802-41304fae07ad.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771924804632-0c696a25-3b54-417e-9e64-6e3dbf3934d6.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771925102711-e5dddfd0-72f0-42cf-840d-ed0d6b2b4480.png)
-
-<!-- 这是一张图片，ocr 内容为： -->
-![](https://cdn.nlark.com/yuque/0/2026/png/42847421/1771763051505-57739c04-4a18-4b31-be3e-2d7887b918d6.png)
+<img width="791" height="316" alt="image" src="https://github.com/user-attachments/assets/aeb5ce53-d690-41db-bf47-f1cfcf388621" />
+<img width="500" height="228" alt="image" src="https://github.com/user-attachments/assets/ff761bbd-5fe1-49d1-ade5-029e32de0455" />
+<img width="611" height="445" alt="image" src="https://github.com/user-attachments/assets/818f537f-5776-4207-860b-5a6c8a384b8e" />
+<img width="850" height="524" alt="image" src="https://github.com/user-attachments/assets/22992204-d8a9-4b5e-83c8-b7d6ae5c813e" />
+<img width="820" height="529" alt="image" src="https://github.com/user-attachments/assets/796003ee-0620-40e1-9749-89c22615401f" />
+<img width="705" height="460" alt="image" src="https://github.com/user-attachments/assets/06e62d32-cf68-4c36-b269-71479f773959" />
+<img width="705" height="460" alt="image" src="https://github.com/user-attachments/assets/043e44d0-4660-47aa-b665-077db96c9284" />
 
